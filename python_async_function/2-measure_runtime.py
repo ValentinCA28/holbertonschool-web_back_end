@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Module that provides a measure_time function to measure runtime of wait_n."""
+"""Module that provides a measure_time function to measure runtime wait_n."""
 
 import asyncio
 import time
