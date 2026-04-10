@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """Module that provides an async_comprehension coroutine."""
 
 from typing import List
