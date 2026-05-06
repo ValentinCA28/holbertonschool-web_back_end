@@ -5,6 +5,6 @@ const groceriesList = () => {
 		.set('Tomatoes', 10)
 		.set('Pasta', 1)
 		.set('Rice', 1)
-		.set('Bananas', 5)
+		.set('Banana', 5)
 }
 export default groceriesList
